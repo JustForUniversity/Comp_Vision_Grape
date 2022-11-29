@@ -1,0 +1,1 @@
+--source ../img/*.jpg --project ../result --weights ../weights/best.pt --img 256 --conf 0.4 --line-thickness 1
