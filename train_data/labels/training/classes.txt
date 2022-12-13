@@ -1,0 +1,11 @@
+black rot leaf
+black rot spot
+black rot bunch
+mildew leaf
+mildew spot
+mildew bunch
+oidium leaf
+oidium spot
+oidium bunch
+
+
