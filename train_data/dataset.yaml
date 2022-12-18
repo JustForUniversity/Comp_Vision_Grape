@@ -5,7 +5,7 @@ val: ../data_mil_rot/images/validation/
 nc: 9
 
 # class names
-names: ['black_rot_leaf', 'black_rot_spot', 'black_rot_bunch', 'mildew_leaf', 'mildew_spot', 'mildew_bunch', 'oidium_spot', 'oidium_bunch', 'oidium_leaf']
+names: ['black_rot_leaf', 'black_rot_spot', 'black_rot_bunch', 'mildew_leaf', 'mildew_spot', 'mildew_bunch', 'oidium_leaf', 'oidium_spot', 'oidium_bunch']
 
 
 
