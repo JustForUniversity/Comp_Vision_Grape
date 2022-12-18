@@ -2,10 +2,10 @@ train: ../data_mil_rot/images/training/
 val: ../data_mil_rot/images/validation/
 
 # number of classes
-nc: 6
+nc: 9
 
 # class names
-names: ['black_rot_leaf', 'black_rot_spot', 'black_rot_bunch', 'mildew_leaf', 'mildew_spot', 'mildew_bunch']
+names: ['black_rot_leaf', 'black_rot_spot', 'black_rot_bunch', 'mildew_leaf', 'mildew_spot', 'mildew_bunch', 'oidium_spot', 'oidium_bunch', 'oidium_leaf']
 
 
 
